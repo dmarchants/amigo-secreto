@@ -15,20 +15,6 @@ Este proyecto es una aplicación web para organizar un juego de Amigo Secreto. P
 - **CSS**: Estilos y diseño de la página.
 - **JavaScript**: Lógica de la aplicación y manejo de eventos.
 
-## Instalación
-
-1. Clona este repositorio en tu máquina local:
-    ```bash
-    git clone https://github.com/tu-usuario/amigo-secreto.git
-    ```
-
-2. Navega al directorio del proyecto:
-    ```bash
-    cd amigo-secreto
-    ```
-
-3. Abre el archivo `index.html` en tu navegador para ver la aplicación en acción.
-
 ## Uso
 
 1. Ingresa los nombres de los participantes en el campo de entrada y haz clic en "Añadir".
